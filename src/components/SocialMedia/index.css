@@ -1,0 +1,30 @@
+.social-media {
+    margin: auto;
+    
+}
+
+.social-media ul {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    justify-content: center;
+    gap: 1.25rem;
+    list-style-type: none;
+}
+
+.social-media ul li a {}
+
+.social-media ul li a, a:hover, a:focus, a:active {
+    background-color: transparent;
+    text-decoration: none;
+    color: inherit;
+}
+
+.social-media ul li a{
+    transition: transform 0.5s;
+}
+
+.social-media ul li a:hover {
+    -webkit-transform: translateY(-0.5rem);
+    transform: translateY(-0.5rem);
+}

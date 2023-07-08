@@ -1,0 +1,42 @@
+/* .links {
+}
+
+.links ul {
+}
+*/
+
+.links ul li{
+  list-style-type: none;
+  }
+
+.links ul li .btn-purple, .btn-pink {
+    font-family: 'Poppins';
+    
+    font-weight: 600;
+    padding: 1rem;
+    margin: 1rem auto;
+    font-size: 0.75rem;
+    background: var(--purple-400);
+    color: var(--white);
+    border-radius: 2rem;
+    box-shadow: 0.5rem 0.5rem 0rem 0rem #000;
+  }
+
+.links ul li .btn-pink {
+  background: var(--pink);
+  }
+
+.links ul li a, a:hover, a:focus, a:active {
+  background-color: transparent;
+  text-decoration: none;
+  color: inherit;
+}
+
+.links ul li button {
+  transition: transform 0.5s;
+}
+
+.links ul li button:hover {
+  -webkit-transform: translateY(-0.5rem);
+	transform: translateY(-0.5rem);
+}
