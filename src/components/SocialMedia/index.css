@@ -12,19 +12,18 @@
     list-style-type: none;
 }
 
-.social-media ul li a {}
-
-.social-media ul li a, a:hover, a:focus, a:active {
-    background-color: transparent;
+.social-media ul li a {
     text-decoration: none;
     color: inherit;
 }
 
-.social-media ul li a{
+.social-media ul li {
     transition: transform 0.5s;
 }
 
-.social-media ul li a:hover {
+.social-media ul li:hover {
     -webkit-transform: translateY(-0.5rem);
     transform: translateY(-0.5rem);
 }
+
+
