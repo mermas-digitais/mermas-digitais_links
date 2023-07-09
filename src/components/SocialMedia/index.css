@@ -1,6 +1,5 @@
 .social-media {
-    margin: auto;
-    
+    margin: 1rem;
 }
 
 .social-media ul {
@@ -17,7 +16,7 @@
 
 .social-media ul li a {
     text-decoration: none;
-    color: inherit;
+    color: deeppink;
     transition: transform 0.5s;
 }
 
