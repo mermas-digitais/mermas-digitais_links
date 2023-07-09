@@ -1,18 +1,14 @@
 .links {
-  padding: 0;
   margin: auto;
 }
 
 .links ul {
-  padding: 0;
   margin: auto;
   list-style-type: none;
 }
-*/
 
 .links ul li{
   list-style-type: none;
-  padding: 0;
   margin: auto;
   }
 

@@ -23,5 +23,7 @@
 
 * {
   background-color: var(--yellow);
-  color: var(--purple-900)
+  color: var(--purple-900);
+  margin: 0;
+  padding: 0;
 }
