@@ -12,18 +12,17 @@
     list-style-type: none;
 }
 
+.social-media ul li {
+    display: flex;
+}
+
 .social-media ul li a {
     text-decoration: none;
     color: inherit;
-}
-
-.social-media ul li {
     transition: transform 0.5s;
 }
 
-.social-media ul li:hover {
+.social-media ul li a:hover {
     -webkit-transform: translateY(-0.5rem);
     transform: translateY(-0.5rem);
 }
-
-
