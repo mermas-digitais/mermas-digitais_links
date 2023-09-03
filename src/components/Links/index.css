@@ -21,6 +21,7 @@
     line-height: 110%;
     color: var(--white);
     border-radius: 5rem;
+    border-color: #000000;
     box-shadow: 0.5rem 0.5rem 0rem 0rem #000;
   }
 
