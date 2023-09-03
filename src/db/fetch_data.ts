@@ -1,0 +1,1 @@
+import { db, firestore } from "./firebase_configs";
