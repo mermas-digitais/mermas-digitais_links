@@ -1,19 +1,17 @@
 .links {
-  margin: auto;
+  margin-top: 2rem;
 }
 
 .links ul {
-  margin: auto;
   list-style-type: none;
 }
 
 .links ul li{
   list-style-type: none;
-  margin: auto;
   }
 
 .links ul li .btn-purple, .btn-pink {
-    font-family: 'Poppins';
+    font-family: 'Poppins', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 600;
     padding: 1rem;
     margin: 1rem auto;
